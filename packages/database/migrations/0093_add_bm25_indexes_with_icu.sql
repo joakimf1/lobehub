@@ -1,1 +1,1 @@
--- BM25 indexes skipped: pg_search is not available on this database (Neon).
+-- BM25 indexes skipped: pg_search is not available on this database (Neon)..
